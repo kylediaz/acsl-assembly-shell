@@ -1,10 +1,10 @@
 package com.kylediaz.acsl_assembly_shell;
 
-import com.kylediaz.acsl_assembly_shell.interpreter.CompilationException;
-import com.kylediaz.acsl_assembly_shell.interpreter.Compiler;
-import com.kylediaz.acsl_assembly_shell.interpreter.Interpreter;
-import com.kylediaz.acsl_assembly_shell.interpreter.statement.Statement;
-import com.kylediaz.acsl_assembly_shell.interpreter.statement.StatementLinkedListNode;
+import com.kylediaz.acsl_assembly_interpreter.CompilationException;
+import com.kylediaz.acsl_assembly_interpreter.Compiler;
+import com.kylediaz.acsl_assembly_interpreter.Interpreter;
+import com.kylediaz.acsl_assembly_interpreter.statement.Statement;
+import com.kylediaz.acsl_assembly_interpreter.statement.StatementLinkedListNode;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

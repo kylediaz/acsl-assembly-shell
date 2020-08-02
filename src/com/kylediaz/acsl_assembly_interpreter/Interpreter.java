@@ -1,8 +1,8 @@
-package com.kylediaz.acsl_assembly_shell.interpreter;
+package com.kylediaz.acsl_assembly_interpreter;
 
-import com.kylediaz.acsl_assembly_shell.interpreter.statement.Opcode;
-import com.kylediaz.acsl_assembly_shell.interpreter.statement.Statement;
-import com.kylediaz.acsl_assembly_shell.interpreter.statement.StatementLinkedListNode;
+import com.kylediaz.acsl_assembly_interpreter.statement.Opcode;
+import com.kylediaz.acsl_assembly_interpreter.statement.Statement;
+import com.kylediaz.acsl_assembly_interpreter.statement.StatementLinkedListNode;
 
 import java.io.InputStream;
 import java.io.PrintStream;

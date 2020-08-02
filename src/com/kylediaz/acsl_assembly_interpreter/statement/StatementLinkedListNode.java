@@ -1,4 +1,4 @@
-package com.kylediaz.acsl_assembly_shell.interpreter.statement;
+package com.kylediaz.acsl_assembly_interpreter.statement;
 
 public class StatementLinkedListNode {
 
